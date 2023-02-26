@@ -1,0 +1,3 @@
+# Strife.js
+
+Strife.js aims to be a very light command and event handling abstraction built on top of discord.js. It offers a (slightly) more opionated way of handling commands and gateway events, abstracting away some of the boilerplate code that is usually written by the user- But still offering the flexibility of writing your own command and event handling, with some of the niceties of having a slightly more opinionated base to work from.
